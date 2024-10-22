@@ -1,0 +1,25 @@
+body {
+    background: #ffe0ca;
+  }
+  p {
+    color: black;
+  }
+  h1 {
+    font-weight: 10px;
+    text-align: center;
+    font-size: 50px;
+    font-family: fantasy;
+    color:#FBEBD9;
+    text-shadow:3px -3px #410200;
+    
+  }
+  section{
+    background-image:url(diner_shot.png);
+      
+    height: 200px;
+  }
+  hr{
+    color: rosybrown;
+    
+    
+  }
